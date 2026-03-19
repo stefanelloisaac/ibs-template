@@ -1,0 +1,1 @@
+export const API_NON_RETRYABLE_STATUSES = [400, 401, 403, 404, 422];

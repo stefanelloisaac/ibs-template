@@ -1,0 +1,9 @@
+import { tv } from 'tailwind-variants';
+
+export const cardDescriptionVariants = tv({
+  slots: {
+    root: 'text-muted-foreground text-xs',
+  },
+  variants: {},
+  defaultVariants: {},
+});
